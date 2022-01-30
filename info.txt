@@ -1,0 +1,8 @@
+
+股票数据api
+
+http://market.finance.sina.com.cn/pricehis.php?symbol=[市场][股票代码]&startdate=[开始日期]&enddate=[结束日期]
+
+historical index example (cn_601766)
+
+https://q.stock.sohu.com/hisHq?code=cn_601766&start=20150601&end=20210414
